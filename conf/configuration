@@ -1,0 +1,7 @@
+projectName=admin
+domainName=default
+userId=admin
+password=a11
+url=http://controller:5000/v3
+dirfile=files/test2.txt
+rankfile=files/test2.txt
